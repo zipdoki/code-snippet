@@ -1,6 +1,6 @@
 class Test < Formula
   desc "brew test"
-  homepage "https://github.com/zipdoki/code-snippet"
+  homepage "test.com"
   version "0.0.1"
   license "MIT"
 
