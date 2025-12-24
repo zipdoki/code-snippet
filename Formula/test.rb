@@ -12,7 +12,7 @@ class Test < Formula
   end
 
   def install
-    bin.install "test"
+    bin.install "test.txt"
   end
 
   test do
