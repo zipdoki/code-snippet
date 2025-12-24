@@ -1,4 +1,4 @@
-class Test < Formula
+class Doki < Formula
   desc "brew test"
   homepage "test.com"
   version "0.0.1"
